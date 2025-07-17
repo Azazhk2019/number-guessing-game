@@ -12,6 +12,6 @@ A simple guessing number game from 1 to 10 using javascript
  If the guess is wrong → Show "Try again!"
 
  If all 3 chances are used → Show "Game over!"
-
+ 
  Concepts Used:
 while or for loop, if-else, break, user input
